@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
-<h3 align="center">A passionate Fullstack Developer|Android Dev |Problem Slover</h3>
+<h3 align="center">A passionate Fullstack Developer|Android Dev |Problem Solver</h3>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam354&label=Profile%20views&color=0e75b6&style=flat" alt="satyam354" /> </p>
